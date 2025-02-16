@@ -26,3 +26,11 @@ Como criar uma rota para deletar um ticket em uma aplicação
 =
 
 Foi utilizado o Insomnia para enviar uma requisição do tipo delete, passando o ID do ticket a ser removido. Em seguida, foi criado um controller para lidar com a remoção do ticket no banco de dados. Após testar a funcionalidade, foi possível observar a remoção do ticket no banco de dados e na API.
+
+Conclusão :
+=
+
+Aprender a lidar com requisições, respostas, dados no corpo da requisição e parâmetros foi fundamental, o projeto foi desenvolvido sem dependências de terceiros, permitindo entender os fundamentos do Node.js de forma sólida.
+
+
+
